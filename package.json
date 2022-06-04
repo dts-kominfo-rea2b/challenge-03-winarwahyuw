@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/menjadi-react-developer/challenge-fn#readme",
   "devDependencies": {
-    "jest": "^28.0.3"
+    "@babel/core": "^7.18.2",
+    "@babel/preset-env": "^7.18.2",
+    "babel-jest": "^28.1.0",
+    "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "@babel/plugin-transform-react-jsx": "^7.17.12"
   }
 }
